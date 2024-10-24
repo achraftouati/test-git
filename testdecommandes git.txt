@@ -1,1 +1,3 @@
 hello this is the first phrase .
+
+il faut faire un commit avant de faire un git checkout
